@@ -1,7 +1,7 @@
 <div align="center">
   <img src="themes/src/main/resources/theme/guinsoolab/welcome/resources/logo.png" width="120" alt="logo" />
   <br/>
-  <small>An Open Source Identity and Access Management solution for modern Applications and Services</small>
+  <small>An Open Source IAM solution for modern Applications and Services</small>
 </div>
 
 # Keycloak
@@ -13,7 +13,13 @@ This repository contains the source code for the Keycloak Server, Java adapters 
 
 ## Help and Documentation
 
-* [Documentation](https://www.keycloak.org/documentation.html)
+* [Quickstart](https://www.keycloak.org/documentation.html)
+* [Server Installation](https://www.keycloak.org/docs/latest/server_installation/)
+* [Securing Apps](https://www.keycloak.org/docs/latest/securing_apps/)
+* [Server Administration](https://www.keycloak.org/docs/latest/server_admin/)
+* [Server Developer](https://www.keycloak.org/docs/latest/server_development/)
+* [Authorization Services](https://www.keycloak.org/docs/latest/authorization_services/)
+* [Upgrading](https://www.keycloak.org/docs/latest/upgrading/)
 * [User Mailing List](https://groups.google.com/d/forum/keycloak-user) - Mailing list for help and general questions about Keycloak
 
 
