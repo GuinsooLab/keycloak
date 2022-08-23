@@ -41,6 +41,10 @@
             <link href="${resourcesPath}/${style}" rel="stylesheet" />
         </#list>
     </#if>
+
+    <script>
+        console.info("${resourcesPath}");
+    </script>
 </head>
 
 <body>
